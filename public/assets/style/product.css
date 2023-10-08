@@ -1,0 +1,34 @@
+#home header {
+    background-color:lightblue;
+    
+}
+
+#home header h6 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+#home nav #logo1{
+    width: 170px;
+    height:55px;
+    
+}
+#home header #button1 {
+    text-decoration: none;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+}
+/*featured products*/
+#home section #img11, #img12, #img13, #img14, #img15, #img16, #img17, #img18, #img19, #img20, #img21, #img22{
+    align-items: center;
+    justify-content: space-between;
+} 
+/* #home h1, h2, h3, h4, h5, h6 {
+    /* font-family: 'Josefin Sans', sans-serif;  */
+.checked {
+    color: orange;
+}
+#home section #dp1, #dp2, #dp3, #dp4{
+    height:90px;
+}
+#home section #tp1, #tp2, #tp3, #tp4{
+    height:90px;
+}
